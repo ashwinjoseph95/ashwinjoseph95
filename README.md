@@ -5,7 +5,7 @@
 - 🔭 I love exploring
 - ⚡ I am a great fan of Technology
 
-
+Visit my [profile]
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -36,7 +36,7 @@
 <img align="left" alt="QGIS" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/qgis.svg" />
 <br /><br />
 
-Visit my [profile]
+
 <br />
 [profile]: https://ashwinjoseph95.github.io/profile/
 [instagram]: https://instagram.com/ashwinjosephk
