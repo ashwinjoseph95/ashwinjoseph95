@@ -34,10 +34,11 @@ Visit my [profile]
 <img align="left" alt="Qualcomm" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/qualcomm.svg" />
 
 <img align="left" alt="QGIS" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/qgis.svg" />
-<br /><br />
-
-
 <br />
+<br />
+
+
+
 [profile]: https://ashwinjoseph95.github.io/profile/
 [instagram]: https://instagram.com/ashwinjosephk
 [linkedin]: https://https://www.linkedin.com/in/ashwinjoseph/
