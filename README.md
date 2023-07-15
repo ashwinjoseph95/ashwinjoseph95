@@ -35,11 +35,6 @@ Visit my [profile]
 
 <img align="left" alt="NVIDIA" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nvidia.svg" />
 
-<img align="left" alt="Renesas" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/renesas.svg" />
-
-<img align="left" alt="NNabla" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nnabla.svg" />
-
-<img align="left" alt="Caffe" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/caffe.svg" />
 
 <img align="left" alt="QGIS" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/qgis.svg" />
 <br />
