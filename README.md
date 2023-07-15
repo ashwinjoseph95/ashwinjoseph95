@@ -35,6 +35,8 @@
 
 <img align="left" alt="QGIS" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/qgis.svg" />
 <br />
+
+Visit my [profile](https://ashwinjoseph95.github.io/profile/)
 <br />
 
 [instagram]: https://instagram.com/ashwinjosephk
